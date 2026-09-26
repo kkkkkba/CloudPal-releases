@@ -1,0 +1,8 @@
+{
+  "versionName": "1.0.0.0048",
+  "versionCode": 49,
+  "url": "https://github.com/kkkkkba/CloudPal/releases/latest/download/CloudPal-1.0.0.0048-android.apk",
+  "mirrorUrl": "https://cdn.jsdelivr.net/gh/kkkkkba/CloudPal@main/release-channel/CloudPal-1.0.0.0048-android.apk",
+  "notes": "修复会话菜单弹窗位置错误（未做屏幕密度换算）\n修复三角指示箭头位置偏移\n菜单贴近屏幕边缘时自动调整，不再溢出",
+  "publishedAt": "2026-09-26"
+}
