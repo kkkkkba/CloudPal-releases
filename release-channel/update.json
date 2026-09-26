@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.0.0049",
-  "versionCode": 50,
-  "url": "https://github.com/kkkkkba/CloudPal-releases/releases/latest/download/CloudPal-1.0.0.0049-android.apk",
-  "mirrorUrl": "https://cdn.jsdelivr.net/gh/kkkkkba/CloudPal-releases@main/release-channel/CloudPal-1.0.0.0049-android.apk",
-  "notes": "修复会话菜单弹窗位置错误与箭头偏移\n菜单贴近屏幕边缘时自动调整不溢出\n更新分发改为独立公开通道，源码仓库转为私有",
+  "versionName": "1.0.1",
+  "versionCode": 52,
+  "url": "https://github.com/kkkkkba/CloudPal-releases/releases/latest/download/CloudPal-1.0.1-android.apk",
+  "mirrorUrl": "https://cdn.jsdelivr.net/gh/kkkkkba/CloudPal-releases@main/release-channel/CloudPal-1.0.1-android.apk",
+  "notes": "云手机会话菜单改为浮层，从设置按钮下方弹出（带指示箭头）\n修复菜单遮挡网页与空白区域问题\n账号编辑面板固定高度，内容滚动、按钮常驻\n更新支持应用内下载安装，带实时进度条\n源码仓库转为私有，更新分发走独立公开通道",
   "publishedAt": "2026-09-26"
 }
