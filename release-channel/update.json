@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.1.0004",
-    "versionCode":  54,
-    "url":  "https://github.com/kkkkkba/CloudPal-releases/releases/download/v1.0.1.0004/CloudPal-1.0.1.0004-android.apk",
-    "mirrorUrl":  "https://cdn.jsdelivr.net/gh/kkkkkba/CloudPal-releases@main/release-channel/CloudPal-1.0.1.0004-android.apk",
-    "notes":  "修复自动更新：主地址为空时仍会使用镜像通道\n检查全部更新来源并选择最高 versionCode\n内置公开更新通道，后续版本可自动检测\n包含 Apple 风格界面与账号操作优化",
+    "versionName":  "1.0.1.0003",
+    "versionCode":  53,
+    "url":  "https://github.com/kkkkkba/CloudPal-releases/releases/download/v1.0.1.0003/CloudPal-1.0.1.0003-android.apk",
+    "mirrorUrl":  "https://cdn.jsdelivr.net/gh/kkkkkba/CloudPal-releases@main/release-channel/CloudPal-1.0.1.0003-android.apk",
+    "notes":  "测试版：采用 Apple 风格重构界面\n账号列表新增一键复制 Token\n移除 Token 密码隐藏与 tk 导入别名\n简化账号编辑，联通云仅保留名称、备注与 Token",
     "publishedAt":  "2026-11-15"
 }
